@@ -1,8 +1,8 @@
 ### Blog Details
 
 **Blog address:** [https://www.azurebrasil.cloud/](https://www.azurebrasil.cloud/)  
-**Number of contributions:**   14
-**First contribution date:** Aug 10, 2023
+**Number of contributions:**   14  
+**First contribution date:** Aug 10, 2023  
 **Last contribution date:**  Aug 1, 2024
 
 ### Contributions
