@@ -2,8 +2,8 @@
 
 **Blog address:** [https://tallesvaliatti.com](https://tallesvaliatti.com)  
 **Number of contributions:** 11  
-**First contribution date:**  Aug 23, 2023
-**Last contribution date:**  Jul 12, 2024
+**First contribution date:**  Aug 23, 2023  
+**Last contribution date:**  Jul 12, 2024  
 
 ### Contributions
 
