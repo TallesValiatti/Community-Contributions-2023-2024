@@ -5,7 +5,7 @@
 **Number of participants:**  600  
 **Lecture topic:** Implementing the CQRS Pattern with Azure SQL  
 **Date:**  Oct 28, 2023  
-**Location:**  Vitória, ES - Brazil
+**Location:**  Vitória, ES - Brazil  
 **Others links:** [https://dataes.com.br/](https://dataes.com.br/)  
 
 On October 28th, we gathered in person at the largest data event in Espírito Santo, Data Saturday Vitória. With over 600 registered attendees and 30 presentations, this event was the premier opportunity of the year to connect, gain insights, and learn about new technologies and tools from leading data professionals across the country and peers from various companies.
