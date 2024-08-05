@@ -1,6 +1,6 @@
 # Community-Contributions-2023-2024
 
-This repository consolidates my contributions between MM. dd, 2023 and MM. dd, 2024.
+This repository consolidates my contributions between Aug 10, 2023 and Aug 1, 2024.
 
 ## Areas of Contribution
 
@@ -10,6 +10,11 @@ This repository consolidates my contributions between MM. dd, 2023 and MM. dd, 2
 - AI
 - Software development
 - and others
+
+## Contributions
+- [Articles](https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Articles)
+- [Events](https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Events)
+- [Youtube](https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Youtube)
 
 ## Links
 
