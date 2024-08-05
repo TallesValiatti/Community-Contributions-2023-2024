@@ -12,3 +12,5 @@ The São Paulo SQLSaturday event was the biggest in Latin America and took place
 This free conference was open to the public and was perfect for students, CIOs, database administrators, data engineers, developers, IT managers, server admins, and job-seekers.
 
 During the event, I talked about "How to Use Azure Cosmos DB Gremlin API in Your Projects," providing insights and practical examples on integrating this powerful tool into various projects.
+
+[See images](https://github.com/TallesValiatti/Community-Contributions-2023-2024/tree/main/Events/SqlSaturdaySp/Images)
