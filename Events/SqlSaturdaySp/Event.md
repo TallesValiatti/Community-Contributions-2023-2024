@@ -3,7 +3,7 @@
 **Name:** SQL Saturday São Paulo 2023   
 **Site:** [https://sqlsaturday.com](https://sqlsaturday.com/2023-11-25-sqlsaturday1067/)  
 **Number of participants:**  500  
-**Lecture topic:** How to Use Azure Cosmos DB Gremlin API in Your Projects
+**Lecture topic:** How to Use Azure Cosmos DB Gremlin API in Your Projects  
 **Date:**  Nov 25, 2023  
 **Location:**  São paulo, SP - Brazil
 
