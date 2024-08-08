@@ -7,7 +7,7 @@
 **Date:**  Nov 25, 2023  
 **Location:**  São paulo, SP - Brazil
 
-The São Paulo SQLSaturday event was the biggest in Latin America and took place at our traditional venue: Unip Tatuapé. We expected 500 IT professionals and speakers to join us.
+The São Paulo SQLSaturday event was the biggest in Latin America and took place in the traditional venue: Unip Tatuapé. With more than 500 registered attendees and 20 presentations, this event stood out as the top opportunity of the year to network, gain insights, and explore new technologies and tools from leading data professionals nationwide and peers from diverse companies.
 
 This free conference was open to the public and was perfect for students, CIOs, database administrators, data engineers, developers, IT managers, server admins, and job-seekers.
 
