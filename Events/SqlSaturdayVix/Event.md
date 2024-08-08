@@ -1,6 +1,6 @@
 ### Event details
 
-**Name:** SQL Saturday Vitória 2023
+**Name:** SQL Saturday Vitória 2023   
 **Site:** [https://sqlsaturday.com](https://sqlsaturday.com/2023-10-28-sqlsaturday1065/#:~:text=SQL%20Saturday%20Vit%C3%B3ria%202023%20is,free%20day%20of%20technical%20training.)  
 **Number of participants:**  600  
 **Lecture topic:** Implementing the CQRS Pattern with Azure SQL  

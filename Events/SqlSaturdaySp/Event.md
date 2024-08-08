@@ -1,6 +1,6 @@
 ### Event details
 
-**Name:** SQL Saturday Vitória 2023
+**Name:** SQL Saturday São Paulo 2023   
 **Site:** [https://sqlsaturday.com](https://sqlsaturday.com/2023-11-25-sqlsaturday1067/)  
 **Number of participants:**  500  
 **Lecture topic:** How to Use Azure Cosmos DB Gremlin API in Your Projects
