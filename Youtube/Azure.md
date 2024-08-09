@@ -1,8 +1,8 @@
 ### Video details
 
-**Web site:** [https://youtube.com](https://youtube.com)  
-**Number of contributions:**  9  
-**First contribution date:**  Dez 29, 2023  
+**Web site:** [https://youtube.com](https://youtube.com)    
+**Number of contributions:**  4  
+**First contribution date:**  Dez 29, 2023    
 **Last contribution date:**  Jun 10, 2024  
 
 ### Contributions
