@@ -8,7 +8,7 @@ This is my public GitHub: https://github.com/TallesValiatti. Here, you can disco
 
 ### Contributions
 
-| Project Link        |
+| Repositories        |
 |---------------------|
 | https://github.com/TallesValiatti/OpenAiImageGenerator |
 | https://github.com/TallesValiatti/AzureOpenAiFunctionCalling |
